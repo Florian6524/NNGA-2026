@@ -1,0 +1,1 @@
+This projects uses Convolutional Neural NEtworks in order to analyse a dataset of junkfood images and, using YOLOv8, create an algorithm that can recognise, from user given images, the types of foods it was trained on and compute an aproximate amount of kcal from the given input.
